@@ -1,0 +1,3 @@
+C++ programming(0001): 10000 won
+Python programming (0002): 20000 won
+Matlab programming(0003): 30000 won
